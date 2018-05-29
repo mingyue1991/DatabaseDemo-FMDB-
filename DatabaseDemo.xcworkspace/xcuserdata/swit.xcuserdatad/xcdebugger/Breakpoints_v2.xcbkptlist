@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DatabaseDemo/Database(FMDB)/SCDDatabaseManager.m"
+            timestampString = "549296410.618957"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "62"
+            endingLineNumber = "62"
+            landmarkName = "-initDataBase"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DatabaseDemo/Database(FMDB)/SCDDatabaseManager.m"
+            timestampString = "549296410.619102"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "61"
+            endingLineNumber = "61"
+            landmarkName = "-initDataBase"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[SCDDatabaseManager initDataBase]"
+                  moduleName = "DatabaseDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/guomingyue/Desktop/swit/%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/databse/DatabaseDemo/DatabaseDemo/Database(FMDB)/SCDDatabaseManager.m"
+                  timestampString = "549296235.500923"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "61"
+                  endingLineNumber = "61"
+                  offsetFromSymbolStart = "1143">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[SCDDatabaseManager initDataBase]"
+                  moduleName = "DatabaseDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/guomingyue/Desktop/swit/%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/databse/DatabaseDemo/DatabaseDemo/Database(FMDB)/SCDDatabaseManager.m"
+                  timestampString = "549296235.508566"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "61"
+                  endingLineNumber = "61"
+                  offsetFromSymbolStart = "1151">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DatabaseDemo/Database(FMDB)/SCDDatabaseManager.m"
+            timestampString = "549296410.619226"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "60"
+            endingLineNumber = "60"
+            landmarkName = "-initDataBase"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[SCDDatabaseManager initDataBase]"
+                  moduleName = "DatabaseDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/guomingyue/Desktop/swit/%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/databse/DatabaseDemo/DatabaseDemo/Database(FMDB)/SCDDatabaseManager.m"
+                  timestampString = "549296235.534568"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "61"
+                  endingLineNumber = "61"
+                  offsetFromSymbolStart = "1143">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[SCDDatabaseManager initDataBase]"
+                  moduleName = "DatabaseDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/guomingyue/Desktop/swit/%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/databse/DatabaseDemo/DatabaseDemo/Database(FMDB)/SCDDatabaseManager.m"
+                  timestampString = "549296235.538813"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "61"
+                  endingLineNumber = "61"
+                  offsetFromSymbolStart = "1151">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DatabaseDemo/Database(FMDB)/SCDDatabaseManager.m"
+            timestampString = "549296410.619339"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "48"
+            endingLineNumber = "48"
+            landmarkName = "-initDataBase"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DatabaseDemo/Database(FMDB)/SCDDatabaseManager.m"
+            timestampString = "549296410.6194921"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "92"
+            endingLineNumber = "92"
+            landmarkName = "-updateTablesFrom:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DatabaseDemo/Database(FMDB)/SCDDatabaseManager.m"
+            timestampString = "549296410.619586"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "97"
+            endingLineNumber = "97"
+            landmarkName = "-updateTablesFrom:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DatabaseDemo/Database(FMDB)/SCDDatabaseManager.m"
+            timestampString = "549296410.619663"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "105"
+            endingLineNumber = "105"
+            landmarkName = "-updateTablesFrom:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DatabaseDemo/Database(FMDB)/SCDDatabaseManager.m"
+            timestampString = "549296410.619735"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "137"
+            endingLineNumber = "137"
+            landmarkName = "-runCommands:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DatabaseDemo/Database(FMDB)/SCDDatabaseManager.m"
+            timestampString = "549296410.619808"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "104"
+            endingLineNumber = "104"
+            landmarkName = "-updateTablesFrom:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__39-[SCDDatabaseManager updateTablesFrom:]_block_invoke"
+                  moduleName = "DatabaseDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/guomingyue/Desktop/swit/%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/databse/DatabaseDemo/DatabaseDemo/Database(FMDB)/SCDDatabaseManager.m"
+                  timestampString = "549296235.599722"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "104"
+                  endingLineNumber = "104"
+                  offsetFromSymbolStart = "449">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__39-[SCDDatabaseManager updateTablesFrom:]_block_invoke_2"
+                  moduleName = "DatabaseDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/guomingyue/Desktop/swit/%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/databse/DatabaseDemo/DatabaseDemo/Database(FMDB)/SCDDatabaseManager.m"
+                  timestampString = "549296235.602509"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "105"
+                  endingLineNumber = "105"
+                  offsetFromSymbolStart = "82">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__destroy_helper_block_.81"
+                  moduleName = "DatabaseDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/guomingyue/Desktop/swit/%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/databse/DatabaseDemo/DatabaseDemo/Database(FMDB)/SCDDatabaseManager.m"
+                  timestampString = "549296235.60703"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "104"
+                  endingLineNumber = "104"
+                  offsetFromSymbolStart = "17">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DatabaseDemo/Database(FMDB)/SCDDatabaseManager.m"
+            timestampString = "549296410.619873"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "134"
+            endingLineNumber = "134"
+            landmarkName = "-runCommands:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[SCDDatabaseManager runCommands:]"
+                  moduleName = "DatabaseDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/guomingyue/Desktop/swit/%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/databse/DatabaseDemo/DatabaseDemo/Database(FMDB)/SCDDatabaseManager.m"
+                  timestampString = "549296235.619324"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "134"
+                  endingLineNumber = "134"
+                  offsetFromSymbolStart = "73">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__34-[SCDDatabaseManager runCommands:]_block_invoke"
+                  moduleName = "DatabaseDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/guomingyue/Desktop/swit/%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/databse/DatabaseDemo/DatabaseDemo/Database(FMDB)/SCDDatabaseManager.m"
+                  timestampString = "549296235.623322"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "134"
+                  endingLineNumber = "134"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__destroy_helper_block_.102"
+                  moduleName = "DatabaseDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/guomingyue/Desktop/swit/%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/databse/DatabaseDemo/DatabaseDemo/Database(FMDB)/SCDDatabaseManager.m"
+                  timestampString = "549296235.626304"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "134"
+                  endingLineNumber = "134"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DatabaseDemo/Database(FMDB)/SCDDatabaseManager.m"
+            timestampString = "549296410.619935"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "135"
+            endingLineNumber = "135"
+            landmarkName = "-runCommands:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
