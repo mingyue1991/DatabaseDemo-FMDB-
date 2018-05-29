@@ -139,6 +139,42 @@ PS: CoreData并不是数据库！而是个框架
 - 能对数据进行大量的聚合
 - CRUD更方便快速
 
+## ios端数据库方案
+1. CoreData  关系映射
+2. sqlite3 直接使用c语言接口  
+
+3. OC封装库  FMDB、PlausibleDatabase、sqlitepersistentobjects
+
+- FMDatabase   
+  FMDatabase对象就代表一个单独的SQLite数据库，用来执行SQL语句 
+- FMResultSet   
+ 使用FMDatabase执行查询后的结果集 
+- FMDatabaseQueue 
+  用于在多线程中执行多个查询或更新，它是线程安全的
+  
+4. realm  
+    官网
+	https://realm.io/docs/
+    中文文档
+	https://realm.io/cn/docs/objc/latest/#primary-keys
+
+
+5. 微信开源 WCDB ：C++操作sqlite3, 上层封装OC和Swift  
+https://github.com/Tencent/wcdb/wiki
+
+	基本特性:  
+	•	易用—ORM, WINQ  
+	•	高效—多线程高并发  
+	•	完整—加密，损坏修复，反注入，全文搜索  
+	
+	基本功能
+	•	基于SQLCipher的数据库加密  
+	•	使用连接池实现并发读写  
+	•	内建 Repair Kit 可用于修复损坏数据库  
+	•	针对占用空间大小优化的数据库备份/恢复功能  
+	•	日志输出重定向以及性能跟踪接口  
+	•	内建用于全文搜索的 mmicu FTS3/4 分词器  
+	
 ## 数据库
 按照一定的数据结构来组织、存储数据的仓库
 
